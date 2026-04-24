@@ -75,3 +75,21 @@ products, high-value categories, and regional performance using Power BI.
 ---
 
 ## Project Structure
+FUTURE_DS_01/
+│
+├── BusinessSalesAnalytics.pbix   → Power BI dashboard file
+├── Business_Sales_Data.xlsx      → Dataset used
+├── dashboard_screenshot.png      → Dashboard preview
+└── README.md                     → Project documentation
+---
+
+## Dashboard Preview
+![Dashboard](dashboard_screenshot.png)
+
+---
+
+## Internship Details
+- Organization: Future Interns
+- Domain: Data Science & Analytics
+- Task: 1 — Business Sales Performance Analytics
+- Track Code: DS
