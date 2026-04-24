@@ -1,71 +1,77 @@
-:
+# Business Sales Performance Analytics
+## Future Interns – Data Science & Analytics | Task 1
 
-📊 Business Sales Performance Analytics
-Future Interns – Data Science & Analytics | Task 1
-📌 Objective
+---
 
-Analyze business sales data to identify revenue trends, top-selling products, high-value categories, and regional performance using an interactive Power BI dashboard.
+## Objective
+Analyzed business sales data to identify revenue trends, top-selling 
+products, high-value categories, and regional performance using Power BI.
 
-📁 Dataset Details
-Total Records: 500 sales transactions
-Time Period: January 2023 – December 2024
-Categories: Technology, Furniture, Office Supplies, Clothing
-Regions: North, South, East, West, Central
-Entities: 20 Customers | 36 Products | 12 Sub-categories
-🛠 Tools Used
-Power BI Desktop — Dashboard creation & visualization
-Microsoft Excel — Data cleaning & preprocessing
-📊 KPIs Analyzed
-KPI	Description
-Total Revenue	Overall sales generated
-Total Profit	Net profit across all transactions
-Profit Margin (%)	Profit as a percentage of revenue
-Total Orders	Total number of transactions
-Average Order Value	Revenue per order
-📈 Dashboard Features
-KPI Cards — Revenue, Profit, Orders, Margin
-Line Chart — Monthly revenue trend (2023 vs 2024)
-Bar Chart — Top-selling products
-Donut Chart — Category-wise sales distribution
-Bar Chart — Regional performance comparison
-Horizontal Bar — Top customers by sales
-Interactive Slicers — Year, Region, Category
-🔍 Key Insights
-Technology generated the highest revenue
-North and South regions contributed the most sales
-iPhone 14 and Samsung Galaxy S23 were top-performing products
-Q4 recorded peak sales across all categories
-Average profit margin was ~14%
-Clothing category had the highest discount rates
-💡 Actionable Recommendations
-Invest more in the Technology category to maximize ROI
-Focus marketing efforts on North and South regions
-Optimize pricing by reducing discounts in Clothing category
-Leverage Q4 seasonal demand with targeted promotions
-Upsell and retain top 5 high-value customers
-🎯 Skills Gained
-Business analytics & data interpretation
-Data cleaning using Power Query
-DAX measures & KPI development
-Dashboard design & storytelling
-Insight generation for decision-making
-📦 Project Structure
-FUTURE_DS_01/
-│── data/
-│   └── sales_data.xlsx
-│
-│── dashboard/
-│   └── sales_dashboard.pbix
-│
-│── images/
-│   └── dashboard_screenshot.png
-│
-│── README.md
-📌 Deliverable
+---
 
-A client-ready interactive Power BI dashboard with clear insights and actionable recommendations for business decision-making.
+## Dataset Details
+- 500 rows of real sales transactions
+- Period: January 2023 – December 2024
+- 4 Categories: Technology, Furniture, Office Supplies, Clothing
+- 5 Regions: North, South, East, West, Central
+- 20 Customers | 36 Products | 12 Sub-categories
 
-🔗 Future Scope
-Add forecasting using time-series models
-Integrate real-time data sources
-Enhance customer segmentation analysis
+---
+
+## Tools Used
+- Power BI Desktop — Dashboard & Visualizations
+- Microsoft Excel — Data Preparation
+
+---
+
+## KPIs Analyzed
+| KPI | Description |
+|-----|-------------|
+| Total Revenue | Overall sales amount |
+| Total Profit | Net profit across all orders |
+| Profit Margin % | Profit as % of revenue |
+| Total Orders | Count of transactions |
+| Avg Order Value | Average revenue per order |
+
+---
+
+## Dashboard Features
+- KPI Cards — Revenue, Profit, Orders, Margin
+- Line Chart — Monthly revenue trend (2023 vs 2024)
+- Bar Chart — Top selling products by revenue
+- Donut Chart — Sales split by category
+- Bar Chart — Regional performance comparison
+- Horizontal Bar — Top customers by sales
+- Slicers — Filter by Year, Region, Category
+
+---
+
+## Key Insights
+- Technology was the highest revenue category
+- North and South regions led in total sales
+- iPhone 14 and Samsung Galaxy S23 were top revenue products
+- Q4 showed peak sales across all categories
+- Average profit margin was around 14%
+- Clothing category had the highest discount rate
+
+---
+
+## Actionable Recommendations
+1. Invest more in Technology category — highest ROI
+2. Focus marketing in North and South regions
+3. Reduce discounts in Clothing to improve margins
+4. Run Q4 promotions to maximize peak season revenue
+5. Upsell to top 5 customers who drive 30%+ of revenue
+
+---
+
+## Skills Gained
+- Business analytics
+- Data cleaning in Power Query
+- DAX measures and KPI creation
+- Dashboard design and layout
+- Insight generation and recommendations
+
+---
+
+## Project Structure
